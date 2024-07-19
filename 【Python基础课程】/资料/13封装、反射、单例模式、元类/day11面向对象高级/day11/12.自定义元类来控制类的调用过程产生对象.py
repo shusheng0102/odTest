@@ -1,0 +1,87 @@
+'''
+元类Mymeta实例化Teacher,调用Teacher实际上是调用元类Mymeta的__call__方法会
+1. 先产生一个Teacher的空对象tea_obj
+2. Teacher执行__init__方法,完成对象的初始属性操作
+3. 返回初始化好的那个对象
+推理:调用Teacher(...)就是在调用Teacher的元类Mymeta中的__call__,那么在该__call__中就需要做上述三件事
+'''
+# #自定义元类来控制类的调用(即类的实例化过程)
+#1 我们把对象实例化的属性全部变成隐藏属性
+
+
+class Mymeta(type):
+    # 但凡继承了type的类才能称之为自定义的元类,否则就是只是一个普通的类
+    # type(class_name,class_bases,class_dic)
+    # __init__
+    def __call__(self, *args, **kwargs):
+        # self=Teacher这个类,args=('大海',18,'man'),kwargs={}
+        # print(self,args,kwargs)
+        # 1. 先产生一个空对象__new__可以给Teacher这个类创建一个空对象
+        # print('aaaa')
+        tea_obj = self.__new__(self)
+        # print(tea_obj)# tea_obj Teacher的对象 ， self Teacher
+        # 2. 执行__init__方法,完成对象的初始属性操作
+        self.__init__(tea_obj,*args, **kwargs)
+        # 在这里改
+        # _类名__属性
+        # print(tea_obj.__dict__)
+        # 类名
+        # print(self.__name__)
+        # k1 = []
+        # v1 = []
+        # for k,v in tea_obj.__dict__.items():
+        #     # print(k,v)
+        #     # 形成了隐藏的语法效果
+        #     # print('_%s__%s'%((self.__name__),k))
+        #     # print(v)
+        #     k1.append('_%s__%s'%((self.__name__),k))
+        #     v1.append(v)
+        # # print(k1)
+        # # print(v1)
+        # tea_obj.__dict__=dict(zip(k1,v1))
+        # 字典生成式
+        tea_obj.__dict__ = {'_%s__%s'%((self.__name__),k):v for k,v in tea_obj.__dict__.items()}
+        # # 也可以加if判断
+        # tea_obj.__dict__ = {'_%s__%s'%((self.__name__),k):v for k,v in tea_obj.__dict__.items()if v == '大海'}
+        # 列表生成式
+        print([i*i for i in range(1,10)])
+        # 只拿到偶数
+        print([i * i for i in range(1, 10)if i %2 ==0])
+        # 3. 返回初始化好的那个对象
+        return tea_obj
+class Teacher(object,metaclass=Mymeta):
+    # Teacher=type('Teacher',(object,),{...})
+    # #Teacher=Mymeta('Teacher',(object,),{...})
+    HP = 100
+    def __init__(self,name,age,sex):
+        self.name = name
+        self.age = age
+        self.sex = sex
+    def run(self):
+        print('%s在跑步'%self.name)
+    # def __call__(self, *args, **kwargs):
+    #     print('aaaaa')
+t=Teacher('大海',18,'man')
+# print(Teacher.__dict__)
+print(t.__dict__)
+# t()
+# 推理:如果一切皆对象,那么Teacher也是一个对象,
+# 该对象之所可以调用,肯定是这个对象的类Mymeta中也定义了一个函数__call__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
