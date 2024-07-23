@@ -14,7 +14,10 @@
 用途：在PyTorch中，.bin文件通常与模型的配置文件一起使用，用于保存和加载预训练模型的权重。
 特点：bin文件不特定于PyTorch，它不包含用于验证的元数据，因此在跨平台使用时可能需要额外的处理来确保兼容性和数据的正确性。
 
+
+
 ## 结论
+
 
 主要区别：safetensors文件是PyTorch特有的，更注重数据的安全性和兼容性；而bin文件是一种更通用的二进制格式，可能用于多种不同的应用场景。
 在PyTorch模型中的使用：两者都可以用来保存模型参数，但safetensors可能提供了更多关于数据安全和校验的特性。
@@ -120,10 +123,13 @@ import torch # 假设model是你的PyTorch模型 model = ... # 保存模型的�
    推荐使用状态字典进行保存和加载：由于其灵活性和较好的兼容性，通常推荐使用状态字典来保存和加载模型。这样可以确保模型的核心参数能够被正确地应用于相同或修改后的架构中。
    ————————————————
 
-                    版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
 原文链接：https://blog.csdn.net/baoyan2015/article/details/135926926
 
+
+
 # pytorch在cann上的性能调优流程
+
 
 在计算越来越重要的今天，以GPU（Graphics Processing Unit）和NPU（Neural Network Processing Unit）为代表的并行计算设备，在人工智能和其他行业，都扮演着重要角色。计算的效率，或者称之为计算的性能，越来越得到广泛关注。
 
@@ -131,6 +137,9 @@ import torch # 假设model是你的PyTorch模型 model = ... # 保存模型的�
 
 []()[]()**图1 **性能调优流程图
 ![](https://www.hiascend.com/doc_center/source/zh/Pytorch/60RC2/ptmoddevg/trainingmigrguide/figure/zh-cn_image_0000001986427205.png)
+
+
+
 
 # 保存模型
 
@@ -140,11 +149,10 @@ PyTorch在训练过程中，通常使用torch.save()来保存Checkpoint文件，
 
 **说明*** 在昇腾PyTorch1.11.0版本中，NPU模型在使用torch.save()进行存储的时候会保存NPU特有的设备信息和数据格式，以便于更好的支持断点训练，这使得保存的pth、pt和pth.tar扩展名文件存在跨平台兼容性问题。为了支持NPU训练出的模型权重或模型可以跨平台使用，需要在模型存储前将模型或tensor放在CPU上进行存储，示例如下：
 
-```
-# 将模型放置在cpu上 
-model = model.cpu()  
-```
-
+  ```
+  # 将模型放置在cpu上 
+  model = model.cpu()  
+  ```
 * PyTorch2.1.0及以后版本已支持跨设备读取权重，不需要模型或tensor放在CPU上进行存储。
 * .pth或.pt扩展名的文件：用于在线推理或导出ONNX格式模型。仅保存模型参数，不保存模型结构，以便压缩文件的体积，可以用Netron等可视化工具打开，样例如[图1](https://www.hiascend.com/document/detail/zh/Pytorch/60RC2/ptmoddevg/trainingmigrguide/PT_LMTMOG_0033.html#ZH-CN_TOPIC_0000001952787004__fig108322851411)所示。
   []()[]() **图1 ** **.pth文件**
@@ -204,9 +212,12 @@ model = model.cpu()
 
   通常情况下，训练图和推理图中对同一个算子处理方式不同（例如BatchNorm和dropout等算子），在输入格式上也有差别。因此在运行推理或导出ONNX模型之前，必须调用 **model.eval()** 来将dropout和batch normalization层设置为推理模式。
 
+
+
 # 导出ONNX模型
 
 **更新时间：2024/07/18**
+
 
 模型训练完成后，用户可以使用pth文件和pth.tar文件导出ONNX模型，然后通过ATC工具将其转换为适配昇腾AI处理器的.om文件用于离线推理。将ONNX模型转换为适配昇腾AI处理器的.om文件流程请参考《[CANN ATC工具使用指南](https://www.hiascend.com/document/detail/zh/canncommercial/80RC2/devaids/auxiliarydevtool/atlasatc_16_0001.html)》。离线推理应用构建请参考《[CANN AscendCL应用软件开发指南 (C&amp;C++)](https://www.hiascend.com/document/detail/zh/canncommercial/80RC2/developmentguide/appdevg/aclcppdevg/aclcppdevg_000000.html)》。
 
@@ -343,10 +354,10 @@ import torch_npu.onnx   # 自定义算子导出功能使能，仅在onnx导出�
 
 #定义一个简单的模型，使用NPU自定义算子
 class Model(torch.nn.Module):
-    def __init__(self):  
+    def __init__(self):    
         super(Model, self).__init__()   
 
-    def forward(self, x):   
+    def forward(self, x):     
         x = torch_npu.npu_one_hot(x, depth=5)    #使用NPU自定义算子   
         return x
 
