@@ -17,8 +17,8 @@
 # print(any([0,'',None,[]]))
 # print(any([]))
 # # 求最大值
-# a = [1,2,4,5,7]
-# print(max(a))
+a = [1,2,4,5,7]
+print(max(a))
 # # 求最小值
 # print(min(a))
 # # 求和
