@@ -16,7 +16,7 @@ pl = wx.Panel(frm,size=(400,400),pos=(100,100))
 # 显示面板
 pl.Show()
 # 创建静态文本
-staticText = wx.StaticText(pl,label='欢迎学习python',pos=(200,200))
+staticText = wx.StaticText(pl,label='----欢迎学习python',pos=(200,200))
 # 显示静态文本
 staticText.Show()
 # 创建按钮
