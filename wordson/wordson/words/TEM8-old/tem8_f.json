@@ -1,0 +1,410 @@
+[
+    {
+        "word": [
+            "fabulous"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "难以置信的，寓言里的"
+            ]
+        ]
+    },
+    {
+        "word":[
+            "filial piety"
+        ],
+        "meaning":[
+            [
+                "n",
+                "孝心"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "famish"
+        ],
+        "meaning": [
+            [
+                "v",
+                "使饥饿"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "farmhouse"
+        ],
+        "meaning": [
+            [
+                "n",
+                "农舍"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fatten"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "养肥"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "federation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "联邦,联合,联盟"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fen"
+        ],
+        "meaning": [
+            [
+                "n",
+                "沼泽,沼池"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ferment"
+        ],
+        "meaning": [
+            [
+                "n",
+                "/"
+            ],
+            [
+                "v",
+                "使发酵，骚动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fermentation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "发酵"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fertility"
+        ],
+        "meaning": [
+            [
+                "n",
+                "肥沃，丰饶"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fervent"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "热的，热烈的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fervour"
+        ],
+        "meaning": [
+            [
+                "n",
+                "热烈，热情"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fervor"
+        ],
+        "meaning": [
+            [
+                "n",
+                "热诚，热心"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "feud"
+        ],
+        "meaning": [
+            [
+                "n",
+                "宿怨，不和"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "feudal"
+        ],
+        "meaning": [
+            [
+                "a",
+                "封建制度的,封地的,领地的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "feverish"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "发烧的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "filament"
+        ],
+        "meaning": [
+            [
+                "n",
+                "细丝；长丝；灯丝"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "filial"
+        ],
+        "meaning": [
+            [
+                "a",
+                "子女的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "firmness"
+        ],
+        "meaning": [
+            [
+                "n",
+                "坚固，坚定，稳固"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fitness"
+        ],
+        "meaning": [
+            [
+                "n",
+                "适当，恰当；健康"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "flare"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "闪耀"
+            ],
+            [
+                "vt",
+                "使闪亮"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "flicker"
+        ],
+        "meaning": [
+            [
+                "v",
+                "闪烁，摇曳"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "floss"
+        ],
+        "meaning": [
+            [
+                "n",
+                "丝棉,乱丝"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "flush"
+        ],
+        "meaning": [
+            [
+                "n",
+                "兴奋，脸红；发烧"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "foggy"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "多雾的；模糊的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "forage"
+        ],
+        "meaning": [
+            [
+                "n",
+                "（牛马的）饲料，粮草"
+            ],
+            [
+                "v",
+                "搜寻，翻寻"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "foresight"
+        ],
+        "meaning": [
+            [
+                "n",
+                "远见"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "formula"
+        ],
+        "meaning": [
+            [
+                "n",
+                "公式，式"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fortitude"
+        ],
+        "meaning": [
+            [
+                "n",
+                "坚毅，坚忍不拨"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "foxglove"
+        ],
+        "meaning": [
+            [
+                "n",
+                "指顶花"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fragile"
+        ],
+        "meaning": [
+            [
+                "a",
+                "脆的；体质弱的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "frantic"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "疯狂的，狂乱的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fraternity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "同行，友爱"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "frivolous"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "轻泛的，轻佻的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "frugal"
+        ],
+        "meaning": [
+            [
+                "a",
+                "节俭的,朴素的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "fungus"
+        ],
+        "meaning": [
+            [
+                "n",
+                "真菌"
+            ]
+        ]
+    }
+]

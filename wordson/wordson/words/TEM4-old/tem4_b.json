@@ -1,0 +1,959 @@
+[
+    {
+        "word": [
+            "backward"
+        ],
+        "meaning": [
+            [
+                "a",
+                "向后的；倒的 ad.倒"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bacteria"
+        ],
+        "meaning": [
+            [
+                "n",
+                "细菌"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "baggage"
+        ],
+        "meaning": [
+            [
+                "n",
+                "行李"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bake"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "烤，烘，焙；烧硬"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "balance"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使平衡；称 n.天平"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "balloon"
+        ],
+        "meaning": [
+            [
+                "n",
+                "气球，玩具气球"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "band"
+        ],
+        "meaning": [
+            [
+                "n",
+                "乐队；带；波段"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bang"
+        ],
+        "meaning": [
+            [
+                "n",
+                "巨响，枪声；猛击"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "barber"
+        ],
+        "meaning": [
+            [
+                "n",
+                "理发师"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bare"
+        ],
+        "meaning": [
+            [
+                "a",
+                "赤裸的；仅仅的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bargain"
+        ],
+        "meaning": [
+            [
+                "n",
+                "交易 vi.议价；成交"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "barrel"
+        ],
+        "meaning": [
+            [
+                "n",
+                "桶；圆筒；枪管"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "barrier"
+        ],
+        "meaning": [
+            [
+                "n",
+                "栅栏，屏障；障碍"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "basically"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "基本上"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "basis"
+        ],
+        "meaning": [
+            [
+                "n",
+                "基础，根据"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "battery"
+        ],
+        "meaning": [
+            [
+                "n",
+                "电池；一套，一组"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bay"
+        ],
+        "meaning": [
+            [
+                "n",
+                "湾；山脉中的凹处"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "beam"
+        ],
+        "meaning": [
+            [
+                "n",
+                "梁；横梁；束，柱"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bear"
+        ],
+        "meaning": [
+            [
+                "n",
+                "熊；粗鲁的人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bear"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "容忍；负担；生育"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "beard"
+        ],
+        "meaning": [
+            [
+                "n",
+                "胡须，络腮胡子"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "beast"
+        ],
+        "meaning": [
+            [
+                "n",
+                "兽，野兽；牲畜"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "behalf"
+        ],
+        "meaning": [
+            [
+                "n",
+                "利益，维护，支持"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "beneath"
+        ],
+        "meaning": [
+            [
+                "prep",
+                "在…下方"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "beneficial"
+        ],
+        "meaning": [
+            [
+                "a",
+                "有利的，有益的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bet"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "&vi.&n.打赌"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "Bible"
+        ],
+        "meaning": [
+            [
+                "n",
+                "基督教《圣经》"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "billion"
+        ],
+        "meaning": [
+            [
+                "num",
+                "万亿(英)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bind"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "捆绑；包扎；装钉"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "biology"
+        ],
+        "meaning": [
+            [
+                "n",
+                "生物学；生态学"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "biscuit"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(英)饼干；(美)软饼"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bite"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "咬，叮，螫；剌穿"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bitter"
+        ],
+        "meaning": [
+            [
+                "a",
+                "痛苦的；严寒的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "blackboard"
+        ],
+        "meaning": [
+            [
+                "n",
+                "黑板"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "blade"
+        ],
+        "meaning": [
+            [
+                "n",
+                "刀刃，刀片；叶片"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "blanket"
+        ],
+        "meaning": [
+            [
+                "n",
+                "毛毯，毯子，羊毛毯"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "blast"
+        ],
+        "meaning": [
+            [
+                "n",
+                "爆炸，冲击波 vt.炸"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "blend"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "&vi.&n.混和"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "block"
+        ],
+        "meaning": [
+            [
+                "n",
+                "街区 vt.堵塞，拦阻"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "board"
+        ],
+        "meaning": [
+            [
+                "n",
+                "板 vt.上(船、车等)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "boast"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "自夸 vt.吹嘘"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bold"
+        ],
+        "meaning": [
+            [
+                "a",
+                "大胆的；冒失的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bolt"
+        ],
+        "meaning": [
+            [
+                "n",
+                "螺栓；插销 vt.闩门"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bomb"
+        ],
+        "meaning": [
+            [
+                "n",
+                "炸弹 vt.轰炸"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bond"
+        ],
+        "meaning": [
+            [
+                "n",
+                "联结，联系；公债"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bone"
+        ],
+        "meaning": [
+            [
+                "n",
+                "骨，骨骼"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "boot"
+        ],
+        "meaning": [
+            [
+                "n",
+                "靴子，长统靴"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "border"
+        ],
+        "meaning": [
+            [
+                "n",
+                "边，边缘；边界"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bother"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "烦扰，迷惑 n.麻烦"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bottle"
+        ],
+        "meaning": [
+            [
+                "n",
+                "瓶，酒瓶；一瓶"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bottom"
+        ],
+        "meaning": [
+            [
+                "n",
+                "底，底部，根基"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bounce"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "反跳，弹起；跳起"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bound"
+        ],
+        "meaning": [
+            [
+                "a",
+                "一定的；有义务的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "boundary"
+        ],
+        "meaning": [
+            [
+                "n",
+                "分界线，办界"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bow"
+        ],
+        "meaning": [
+            [
+                "n",
+                "弓；蝴蝶结；鞠躬"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "brake"
+        ],
+        "meaning": [
+            [
+                "n",
+                "闸，刹车 vi.制动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "branch"
+        ],
+        "meaning": [
+            [
+                "n",
+                "树枝；分部；分科"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "brass"
+        ],
+        "meaning": [
+            [
+                "n",
+                "黄铜；黄铜器"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "brave"
+        ],
+        "meaning": [
+            [
+                "a",
+                "勇敢的，华丽的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bread"
+        ],
+        "meaning": [
+            [
+                "n",
+                "面包；食物，粮食"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "breadth"
+        ],
+        "meaning": [
+            [
+                "n",
+                "宽度，幅度；幅面"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "break"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "打破；损坏；破坏"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "breast"
+        ],
+        "meaning": [
+            [
+                "n",
+                "乳房；胸脯，胸膛"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "breed"
+        ],
+        "meaning": [
+            [
+                "n",
+                "品种 vt.使繁殖"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "breeze"
+        ],
+        "meaning": [
+            [
+                "n",
+                "微风，和风"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "brick"
+        ],
+        "meaning": [
+            [
+                "n",
+                "砖，砖块；砖状物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bride"
+        ],
+        "meaning": [
+            [
+                "n",
+                "新娘"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "brilliant"
+        ],
+        "meaning": [
+            [
+                "a",
+                "光辉的；卓越的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "British"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不列颠的，英联邦的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "broad"
+        ],
+        "meaning": [
+            [
+                "a",
+                "宽的，阔的；广泛的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "broadcast"
+        ],
+        "meaning": [
+            [
+                "n",
+                "广播，播音"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "brow"
+        ],
+        "meaning": [
+            [
+                "n",
+                "额；眉，眉毛"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "brush"
+        ],
+        "meaning": [
+            [
+                "n",
+                "刷子，毛刷；画笔"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bubble"
+        ],
+        "meaning": [
+            [
+                "n",
+                "泡 vi.冒泡，沸腾"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bucket"
+        ],
+        "meaning": [
+            [
+                "n",
+                "水桶；吊桶；铲斗"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "building"
+        ],
+        "meaning": [
+            [
+                "n",
+                "建筑物，大楼；建筑"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bulb"
+        ],
+        "meaning": [
+            [
+                "n",
+                "电灯泡；球状物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bulk"
+        ],
+        "meaning": [
+            [
+                "n",
+                "物体，容积，大批"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bullet"
+        ],
+        "meaning": [
+            [
+                "n",
+                "枪弹，子弹，弹丸"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bundle"
+        ],
+        "meaning": [
+            [
+                "n",
+                "捆，包，束；包袱"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "burden"
+        ],
+        "meaning": [
+            [
+                "n",
+                "担子，重担；装载量"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bureau"
+        ],
+        "meaning": [
+            [
+                "n",
+                "局，司，处；社，所"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "burn"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "烧，燃烧 n.烧伤"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "burst"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使爆裂 vi.&n.爆炸"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bury"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "埋葬，葬；埋藏"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "bush"
+        ],
+        "meaning": [
+            [
+                "n",
+                "灌木，灌木丛，矮树"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "button"
+        ],
+        "meaning": [
+            [
+                "n",
+                "扣子；按钮 vt.扣紧"
+            ]
+        ]
+    }
+]

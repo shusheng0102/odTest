@@ -1,0 +1,734 @@
+[
+    {
+        "word": [
+            "nasty"
+        ],
+        "meaning": [
+            [
+                "a",
+                "龌龊的；淫猥的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "neighbour"
+        ],
+        "meaning": [
+            [
+                "n",
+                "邻居，邻国，邻人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nervous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "神经的；易激动的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "niece"
+        ],
+        "meaning": [
+            [
+                "n",
+                "侄女，外甥女"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nonsense"
+        ],
+        "meaning": [
+            [
+                "n",
+                "胡说，废话"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nitrogen"
+        ],
+        "meaning": [
+            [
+                "n",
+                "氮"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "needle"
+        ],
+        "meaning": [
+            [
+                "n",
+                "针，缝补，编织针"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "民族；国家"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "November"
+        ],
+        "meaning": [
+            [
+                "n",
+                "十一月"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nap"
+        ],
+        "meaning": [
+            [
+                "n",
+                "小睡，打盹，瞌睡"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "normal"
+        ],
+        "meaning": [
+            [
+                "a",
+                "正常的，普通的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "native"
+        ],
+        "meaning": [
+            [
+                "n",
+                "本地人"
+            ],
+            [
+                "a",
+                "本土的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nut"
+        ],
+        "meaning": [
+            [
+                "n",
+                "坚果，干果；螺母"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nephew"
+        ],
+        "meaning": [
+            [
+                "n",
+                "侄子，外甥"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "none"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "毫不"
+            ],
+            [
+                "pron",
+                "没有人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nature"
+        ],
+        "meaning": [
+            [
+                "n",
+                "大自然；本性；性质"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "noticeable"
+        ],
+        "meaning": [
+            [
+                "a",
+                "显而易见的；重要的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nationality"
+        ],
+        "meaning": [
+            [
+                "n",
+                "国籍；民族，族"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "natural"
+        ],
+        "meaning": [
+            [
+                "a",
+                "自然界的；天然的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "northeast"
+        ],
+        "meaning": [
+            [
+                "n",
+                "东北"
+            ],
+            [
+                "a",
+                "位于东北的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nail"
+        ],
+        "meaning": [
+            [
+                "n",
+                "钉；指甲"
+            ],
+            [
+                "vt",
+                "钉"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "naughty"
+        ],
+        "meaning": [
+            [
+                "a",
+                "顽皮的，淘气的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nineteen"
+        ],
+        "meaning": [
+            [
+                "num",
+                "十九，十九个"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "Negro"
+        ],
+        "meaning": [
+            [
+                "n",
+                "黑人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nursery"
+        ],
+        "meaning": [
+            [
+                "n",
+                "托儿所；苗圃"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "noisy"
+        ],
+        "meaning": [
+            [
+                "a",
+                "嘈杂的；喧闹的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nuclear"
+        ],
+        "meaning": [
+            [
+                "a",
+                "原子核的；核心的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "needless"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不需要的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "necklace"
+        ],
+        "meaning": [
+            [
+                "n",
+                "项链，项圈"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nuisance"
+        ],
+        "meaning": [
+            [
+                "n",
+                "讨厌的东西"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nylon"
+        ],
+        "meaning": [
+            [
+                "n",
+                "尼龙，耐纶"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "narrow"
+        ],
+        "meaning": [
+            [
+                "a",
+                "狭的，狭窄的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "naval"
+        ],
+        "meaning": [
+            [
+                "n",
+                "海军的，军舰的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ninety"
+        ],
+        "meaning": [
+            [
+                "num",
+                "九十，九十个"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nevertheless"
+        ],
+        "meaning": [
+            [
+                "conj",
+                "然而"
+            ],
+            [
+                "ad",
+                "仍然"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "national"
+        ],
+        "meaning": [
+            [
+                "a",
+                "民族的；国家的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ninth"
+        ],
+        "meaning": [
+            [
+                "num",
+                "第九；九分之一"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "network"
+        ],
+        "meaning": [
+            [
+                "n",
+                "网状物；网络"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nest"
+        ],
+        "meaning": [
+            [
+                "n",
+                "巢，窝，穴"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "neck"
+        ],
+        "meaning": [
+            [
+                "n",
+                "颈，脖子"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "necessity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "必要性；必然性"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "naked"
+        ],
+        "meaning": [
+            [
+                "a",
+                "裸体的；无遮敝的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "neglect"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "忽视，忽略；疏忽"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "necessarily"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "必然，必定"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "neat"
+        ],
+        "meaning": [
+            [
+                "a",
+                "整洁的；熟练的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "neutral"
+        ],
+        "meaning": [
+            [
+                "a",
+                "中立的；中性的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "neighbourhood"
+        ],
+        "meaning": [
+            [
+                "n",
+                "邻居关系；邻近"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "normally"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "通常，正常地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "never"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "永不，决不；不"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "noun"
+        ],
+        "meaning": [
+            [
+                "n",
+                "名词"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "necessary"
+        ],
+        "meaning": [
+            [
+                "a",
+                "必要的；必然的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "navy"
+        ],
+        "meaning": [
+            [
+                "n",
+                "海军"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "northwest"
+        ],
+        "meaning": [
+            [
+                "n",
+                "西北"
+            ],
+            [
+                "a",
+                "位于西北的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "namely"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "即，也就是"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "negative"
+        ],
+        "meaning": [
+            [
+                "a",
+                "否定的；消极的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nerve"
+        ],
+        "meaning": [
+            [
+                "n",
+                "神经；勇敢，胆量"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "newly"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "新近，最近"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nurse"
+        ],
+        "meaning": [
+            [
+                "n",
+                "保姆；护士"
+            ],
+            [
+                "vt",
+                "看护"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "naturally"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "自然地；天然地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "nucleus"
+        ],
+        "meaning": [
+            [
+                "n",
+                "核，核心；(原子)核"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "navigation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "航行；航海术；导航"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "noble"
+        ],
+        "meaning": [
+            [
+                "a",
+                "贵族的；高尚的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "night"
+        ],
+        "meaning": [
+            [
+                "n",
+                "夜，夜间"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "numerous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "为数众多的；许多"
+            ]
+        ]
+    }
+]

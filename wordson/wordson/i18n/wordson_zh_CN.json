@@ -1,0 +1,55 @@
+{
+    "_lang": "zh_CN",
+
+
+    "start": "开始",
+    "load": "载入",
+    "no_save":"(无存档)",
+    "exit": "退出",
+    "return": "返回",
+
+    "placeholder": "输入答案",
+    "unknown_language": "(未知语言)",
+    "unknown_category": "(未知分类)",
+
+
+    "language_title": "选择单词语种",
+    "no_language": "没有可用的语种",
+    "category_title": "选择单词目录",
+    "no_category": "没有可用的目录",
+
+
+    "mode_title": "选择模式",
+
+    "mode_option_select_by_meaning": "根据词义选择单词",
+    "mode_option_write_by_meaning": "根据词义拼写单词",
+    "mode_option_select_by_word": "根据单词选择意思",
+
+    "mode_show_type": "显示词性",
+    "mode_show_first_char": "显示首字母",
+    "mode_play_sound": "如果有，播放发音\n（“选择单词”模式无效）",
+    "mode_shuffle": "乱序抽查",
+
+    "mode_repeat_word": "反复抽查",
+    "mode_repeat_word_help": "回答错误的题目将再次出现直到回答正确",
+    "mode_once_word": "只抽一次",
+    "mode_once_word_help": "任何题目都只会出现一次",
+
+    "lib_title": "选择词库",
+    "no_lib": "没有词库",
+
+    "right_answer": "正确答案:",
+    "enter_to_continue": "按回车继续",
+
+    "resume": "继续",
+    "save": "存档",
+    "saving": "正在保存",
+    "saved": "已存档",
+
+
+    "used_time": "耗时: %s",
+    "word_and_time": "%s\n%s次",
+    "word_rate": "准确率: %.2f%% (%s/%s)",
+    "word_wrong": "错误单词:",
+    "no_wrong": "(无)"
+}

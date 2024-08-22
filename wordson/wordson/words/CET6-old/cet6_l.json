@@ -1,0 +1,650 @@
+[
+    {
+        "word": [
+            "lace"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "系带，用带子束紧"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "landscape"
+        ],
+        "meaning": [
+            [
+                "n",
+                "风景，景色，景致"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "largely"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "大规模地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "late"
+        ],
+        "meaning": [
+            [
+                "a",
+                "去世不久的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "latent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "存在但看不见的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lathe"
+        ],
+        "meaning": [
+            [
+                "n",
+                "车床"
+            ],
+            [
+                "vt",
+                "用车床加工"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "latitude"
+        ],
+        "meaning": [
+            [
+                "n",
+                "纬度；黄纬"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lattice"
+        ],
+        "meaning": [
+            [
+                "n",
+                "格子；点阵，网络"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "laundry"
+        ],
+        "meaning": [
+            [
+                "n",
+                "送洗衣店去洗的东西"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "leaflet"
+        ],
+        "meaning": [
+            [
+                "n",
+                "传单，活页；广告"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "leakage"
+        ],
+        "meaning": [
+            [
+                "n",
+                "漏，泄漏；漏出物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lease"
+        ],
+        "meaning": [
+            [
+                "n",
+                "租约，契约，租契"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "legislation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "立法；法规"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "length"
+        ],
+        "meaning": [
+            [
+                "n",
+                "程度，范围"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lengthen"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使延长"
+            ],
+            [
+                "vi",
+                "变长"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "leopard"
+        ],
+        "meaning": [
+            [
+                "n",
+                "豹"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lessen"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "减少"
+            ],
+            [
+                "vi",
+                "变少"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lever"
+        ],
+        "meaning": [
+            [
+                "n",
+                "途径，工具，手段"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "liability"
+        ],
+        "meaning": [
+            [
+                "n",
+                "责任；倾向；债务"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "liable"
+        ],
+        "meaning": [
+            [
+                "a",
+                "有(法律)责任的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lighter"
+        ],
+        "meaning": [
+            [
+                "n",
+                "打火机，引燃器"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "likelihood"
+        ],
+        "meaning": [
+            [
+                "n",
+                "可能(性)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "likeness"
+        ],
+        "meaning": [
+            [
+                "n",
+                "同样；类似，相似"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lily"
+        ],
+        "meaning": [
+            [
+                "n",
+                "百合，百合花，睡莲"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "limb"
+        ],
+        "meaning": [
+            [
+                "n",
+                "分支，突出物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "limestone"
+        ],
+        "meaning": [
+            [
+                "n",
+                "石灰石"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "limp"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "蹒跚，跛行"
+            ],
+            [
+                "n",
+                "跛行"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "line"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "加衬里于"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "linear"
+        ],
+        "meaning": [
+            [
+                "a",
+                "线的；长度的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "liner"
+        ],
+        "meaning": [
+            [
+                "n",
+                "班船，定期班机"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "linger"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "逗留，徘徊；拖延"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lining"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(衣服里的)衬里"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lipstick"
+        ],
+        "meaning": [
+            [
+                "n",
+                "唇膏，口红"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "literal"
+        ],
+        "meaning": [
+            [
+                "a",
+                "文字(上)的；字面的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "literally"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "照字义，逐字地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "literary"
+        ],
+        "meaning": [
+            [
+                "a",
+                "精通文学的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "litter"
+        ],
+        "meaning": [
+            [
+                "n",
+                "废物，杂乱"
+            ],
+            [
+                "vi",
+                "乱扔"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lobby"
+        ],
+        "meaning": [
+            [
+                "n",
+                "前厅，(剧院的)门廊"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "locality"
+        ],
+        "meaning": [
+            [
+                "n",
+                "位置，地点，发生地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "location"
+        ],
+        "meaning": [
+            [
+                "n",
+                "定位，测位；测量"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "locomotive"
+        ],
+        "meaning": [
+            [
+                "a",
+                "运动的；机动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "locust"
+        ],
+        "meaning": [
+            [
+                "n",
+                "蝗虫；洋槐，刺槐"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lodging"
+        ],
+        "meaning": [
+            [
+                "n",
+                "寄宿，住宿；住所"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lofty"
+        ],
+        "meaning": [
+            [
+                "a",
+                "高耸的；高尚的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "log"
+        ],
+        "meaning": [
+            [
+                "n",
+                "航海日志；飞行日志"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "longing"
+        ],
+        "meaning": [
+            [
+                "n",
+                "渴望"
+            ],
+            [
+                "a",
+                "显示渴望的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "longitude"
+        ],
+        "meaning": [
+            [
+                "n",
+                "经线，经度"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "loosely"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "松松地，松散地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "loosen"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "变松"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lounge"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(旅馆等的)休息室"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lubricate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使润滑"
+            ],
+            [
+                "vi",
+                "加润滑油"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "luminous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "发光的；光明的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lump"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "(使)成团"
+            ],
+            [
+                "vi",
+                "结块"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "lunar"
+        ],
+        "meaning": [
+            [
+                "a",
+                "月亮的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "luncheon"
+        ],
+        "meaning": [
+            [
+                "n",
+                "午宴，午餐，便宴"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "luxurious"
+        ],
+        "meaning": [
+            [
+                "a",
+                "爱好奢侈的，豪华的"
+            ]
+        ]
+    }
+]

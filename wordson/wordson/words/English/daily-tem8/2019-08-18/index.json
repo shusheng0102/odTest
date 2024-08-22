@@ -1,0 +1,522 @@
+[
+    {
+        "word": [
+            "wanderer"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "流浪者,徘徊者"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈwän-dər",
+                    "soundpath": "wanderer-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "seedling"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "幼苗"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈsēd-liŋ",
+                    "soundpath": "seedling-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "sloth"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "懒惰，树懒（一种动物）"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈslȯth",
+                    "soundpath": "sloth-0.wav"
+                },
+                {
+                    "soundmark": "ˈsläth",
+                    "soundpath": "sloth-1.wav"
+                },
+                {
+                    "soundmark": "also  ˈslōth",
+                    "soundpath": "sloth-2.wav"
+                },
+                {
+                    "soundmark": "ˈslōth",
+                    "soundpath": "sloth-3.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "chemist"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "化学家；药剂师"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈke-mist",
+                    "soundpath": "chemist-0.wav"
+                },
+                {
+                    "soundmark": "ˈkem-əst",
+                    "soundpath": "chemist-1.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "criticize"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "vt/vi"
+                ],
+                "meaning": [
+                    "批评；责备"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈkri-tə-ˌsīz",
+                    "soundpath": "criticize-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "hitch"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "v"
+                ],
+                "meaning": [
+                    "搭便车，套住"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈhich",
+                    "soundpath": "hitch-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "carcass"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "尸体"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈkär-kəs",
+                    "soundpath": "carcass-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "sedge"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "蓑衣草"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈsej",
+                    "soundpath": "sedge-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "gold-smith"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "金匠"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈgōl(d)-ˌsmith",
+                    "soundpath": "gold-smith-0.wav"
+                },
+                {
+                    "soundmark": "ˈgōld-ˌsmith",
+                    "soundpath": "gold-smith-1.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "excommunicate"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "vt"
+                ],
+                "meaning": [
+                    "逐出教会"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˌek-skə-ˈmyü-nə-ˌkāt",
+                    "soundpath": "excommunicate-0.wav"
+                },
+                {
+                    "soundmark": "ˌek-skə-ˈmyü-ni-kət",
+                    "soundpath": "excommunicate-1.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "serf"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "农奴"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈsərf",
+                    "soundpath": "serf-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "arrogant"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "adj"
+                ],
+                "meaning": [
+                    "傲慢的，自大的"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈer-ə-gənt",
+                    "soundpath": "arrogant-0.wav"
+                },
+                {
+                    "soundmark": "ˈa-rə-",
+                    "soundpath": "arrogant-1.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "instructor"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "指导者，教员"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "in-ˈstrək-tər",
+                    "soundpath": "instructor-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "projection"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "突出物"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "prə-ˈjek-shən",
+                    "soundpath": "projection-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "juicy"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "a"
+                ],
+                "meaning": [
+                    "多汁液的,生动的,多水分的"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈjü-sē",
+                    "soundpath": "juicy-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "indefinite"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "a"
+                ],
+                "meaning": [
+                    "无限期的"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "(ˌ)in-ˈdef-nət",
+                    "soundpath": "indefinite-0.wav"
+                },
+                {
+                    "soundmark": "-ˈde-fə-",
+                    "soundpath": "indefinite-1.wav"
+                },
+                {
+                    "soundmark": "in-ˈde-fə-nət",
+                    "soundpath": "indefinite-2.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "loft"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "阁楼，顶楼"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈlȯft",
+                    "soundpath": "loft-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "garb"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "装束"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈgärb",
+                    "soundpath": "garb-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "shingle"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "木瓦，屋顶板"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "ˈshiŋ-gəl",
+                    "soundpath": "shingle-0.wav"
+                }
+            ]
+        }
+    },
+    {
+        "word": [
+            "impatience"
+        ],
+        "meaning": [
+            {
+                "type": [
+                    "n"
+                ],
+                "meaning": [
+                    "性急,难耐,渴望,急躁,焦急"
+                ]
+            }
+        ],
+        "pronunciation": {
+            "mode": "one2one",
+            "value": [
+                {
+                    "soundmark": "(ˌ)im-ˈpā-shən(t)s",
+                    "soundpath": "impatience-0.wav"
+                },
+                {
+                    "soundmark": "im-ˈpā-shəns",
+                    "soundpath": "impatience-1.wav"
+                }
+            ]
+        }
+    }
+]

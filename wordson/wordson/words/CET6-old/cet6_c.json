@@ -1,0 +1,2290 @@
+[
+    {
+        "word": [
+            "cable"
+        ],
+        "meaning": [
+            [
+                "n",
+                "海底电报"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "calculus"
+        ],
+        "meaning": [
+            [
+                "n",
+                "微积分；结石"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "calibration"
+        ],
+        "meaning": [
+            [
+                "n",
+                "校准；标定，刻度"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "can"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "装罐头"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cane"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(藤等)茎；手杖"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cancel"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "删去，勾销，取消"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "capability"
+        ],
+        "meaning": [
+            [
+                "n",
+                "能力，才能；性能"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "capacitance"
+        ],
+        "meaning": [
+            [
+                "n",
+                "电容，电容量"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "capacitor"
+        ],
+        "meaning": [
+            [
+                "n",
+                "电容器"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cape"
+        ],
+        "meaning": [
+            [
+                "n",
+                "披肩，斗篷；海角"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "captive"
+        ],
+        "meaning": [
+            [
+                "a",
+                "被俘虏的；被迷住的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "carry"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "刊登"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cartoon"
+        ],
+        "meaning": [
+            [
+                "n",
+                "漫画，动画片"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cartridge"
+        ],
+        "meaning": [
+            [
+                "n",
+                "弹药筒，子弹；软片"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "catalogue"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "为…编目录"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "catalyst"
+        ],
+        "meaning": [
+            [
+                "n",
+                "催化剂；刺激因素"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "category"
+        ],
+        "meaning": [
+            [
+                "n",
+                "种类，类目；范畴"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cater"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "迎合，投合"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "Catholic"
+        ],
+        "meaning": [
+            [
+                "a",
+                "天主教的"
+            ],
+            [
+                "n",
+                "天主教徒"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "caution"
+        ],
+        "meaning": [
+            [
+                "n",
+                "小心；告诫"
+            ],
+            [
+                "vt",
+                "警告"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cautious"
+        ],
+        "meaning": [
+            [
+                "a",
+                "小心的，谨慎的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cavity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "洞，穴，空腔"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cement"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "粘结"
+            ],
+            [
+                "vi",
+                "粘紧"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "censor"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "审查，检查"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cereal"
+        ],
+        "meaning": [
+            [
+                "n",
+                "谷类，五谷，禾谷"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "certainty"
+        ],
+        "meaning": [
+            [
+                "n",
+                "确实性，确信，确实"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "challenge"
+        ],
+        "meaning": [
+            [
+                "n",
+                "艰巨任务；要求回避"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "champion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "斗士；提倡者"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "characterize"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "表示…的特性"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "charcoal"
+        ],
+        "meaning": [
+            [
+                "n",
+                "炭，木炭；生物炭"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "charge"
+        ],
+        "meaning": [
+            [
+                "n",
+                "负荷；充电"
+            ],
+            [
+                "vt",
+                "装满"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "charm"
+        ],
+        "meaning": [
+            [
+                "n",
+                "魅力；妩媚"
+            ],
+            [
+                "vi",
+                "迷人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "charter"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "租"
+            ],
+            [
+                "n",
+                "宪章；契据"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "chatter"
+        ],
+        "meaning": [
+            [
+                "vi/n",
+                "喋喋不休"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cheat"
+        ],
+        "meaning": [
+            [
+                "n",
+                "欺诈；骗取"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "check"
+        ],
+        "meaning": [
+            [
+                "n",
+                "支票，帐单"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cherish"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "珍爱；怀有(感情)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "chestnut"
+        ],
+        "meaning": [
+            [
+                "n",
+                "栗子；栗树；栗色"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "chill"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "感到寒冷；冷淬"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "chip"
+        ],
+        "meaning": [
+            [
+                "n",
+                "薄片，碎片"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "choice"
+        ],
+        "meaning": [
+            [
+                "n",
+                "入选者"
+            ],
+            [
+                "a",
+                "优等的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "chop"
+        ],
+        "meaning": [
+            [
+                "n",
+                "一块排骨，肉块"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "chord"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(乐器的)弦"
+            ],
+            [
+                "vi",
+                "协调"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "chorus"
+        ],
+        "meaning": [
+            [
+                "vt/vi",
+                "合唱"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "Christ"
+        ],
+        "meaning": [
+            [
+                "n",
+                "救世主(耶稣基督)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "Christian"
+        ],
+        "meaning": [
+            [
+                "a",
+                "基督教的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cigar"
+        ],
+        "meaning": [
+            [
+                "n",
+                "雪茄烟，叶卷烟"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "circular"
+        ],
+        "meaning": [
+            [
+                "n",
+                "传单，通报，通函"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "circulation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "循环；(货币等)流通"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "circus"
+        ],
+        "meaning": [
+            [
+                "n",
+                "马戏；马戏团"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cite"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "引用，引证；举例"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "civilian"
+        ],
+        "meaning": [
+            [
+                "n",
+                "平民"
+            ],
+            [
+                "a",
+                "平民的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "claim"
+        ],
+        "meaning": [
+            [
+                "n",
+                "权利，所有权"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clamp"
+        ],
+        "meaning": [
+            [
+                "n",
+                "夹子"
+            ],
+            [
+                "vt",
+                "夹住，夹紧"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clap"
+        ],
+        "meaning": [
+            [
+                "n",
+                "拍手喝采声；霹雳声"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clash"
+        ],
+        "meaning": [
+            [
+                "n",
+                "碰撞声；抵触，冲突"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clasp"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "扣住，扣紧，钩住"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "classic"
+        ],
+        "meaning": [
+            [
+                "n",
+                "名著"
+            ],
+            [
+                "a",
+                "不朽的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clatter"
+        ],
+        "meaning": [
+            [
+                "n",
+                "得得声，卡嗒声"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cleanliness"
+        ],
+        "meaning": [
+            [
+                "n",
+                "清洁"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clearing"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(森林中的)空旷地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "client"
+        ],
+        "meaning": [
+            [
+                "n",
+                "顾客；诉讼委托人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "climax"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(兴趣的)顶点"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cling"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "粘住；依附；坚持"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clinic"
+        ],
+        "meaning": [
+            [
+                "n",
+                "诊所，医务室；会诊"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clip"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "夹住"
+            ],
+            [
+                "n",
+                "夹子，钳子"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clip"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "剪；剪辑报刊"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cloak"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "掩盖，覆盖，掩饰"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clockwise"
+        ],
+        "meaning": [
+            [
+                "a/ad",
+                "顺时针方向转的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "closet"
+        ],
+        "meaning": [
+            [
+                "n",
+                "小房间；壁碗橱"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cloudy"
+        ],
+        "meaning": [
+            [
+                "a",
+                "混浊的；模糊不清的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clown"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(马戏的)小丑，丑角"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cluster"
+        ],
+        "meaning": [
+            [
+                "n",
+                "一串"
+            ],
+            [
+                "vt",
+                "使成群"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "clutch"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "抓住"
+            ],
+            [
+                "vi",
+                "掌握，攫"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coach"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "辅导，指导，训练"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cock"
+        ],
+        "meaning": [
+            [
+                "n",
+                "旋塞，开关，龙头"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coefficient"
+        ],
+        "meaning": [
+            [
+                "n",
+                "协同因素；系数，率"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coffin"
+        ],
+        "meaning": [
+            [
+                "n",
+                "棺材，柩"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coherent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "粘着的；紧凑的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coin"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "铸造(硬币)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coincide"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "相符合；相巧合"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coke"
+        ],
+        "meaning": [
+            [
+                "n",
+                "焦炭"
+            ],
+            [
+                "vt/vi",
+                "炼焦"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "collaborate"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "协作，合作；协调"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "collide"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "碰撞；冲突，抵触"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "colonial"
+        ],
+        "meaning": [
+            [
+                "a",
+                "殖民地的，殖民的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "colonist"
+        ],
+        "meaning": [
+            [
+                "n",
+                "移民；殖民地居民"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "combat"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "跟…战斗"
+            ],
+            [
+                "vi",
+                "格斗"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "combustion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "燃烧；氧化；骚动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "comedy"
+        ],
+        "meaning": [
+            [
+                "n",
+                "喜剧；喜剧场面"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "commence"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "开始"
+            ],
+            [
+                "vi",
+                "获得学位"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "commend"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "称赞，表扬；推荐"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "commission"
+        ],
+        "meaning": [
+            [
+                "n",
+                "委托，委任；委托状"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "commodity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "日用品，商品，物品"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "commonplace"
+        ],
+        "meaning": [
+            [
+                "a",
+                "平凡的"
+            ],
+            [
+                "n",
+                "平常话"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "commonsense"
+        ],
+        "meaning": [
+            [
+                "a",
+                "有常识的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "commonwealth"
+        ],
+        "meaning": [
+            [
+                "n",
+                "共和国；联邦"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "compact"
+        ],
+        "meaning": [
+            [
+                "a",
+                "紧密的"
+            ],
+            [
+                "vt",
+                "使紧凑"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "comparable"
+        ],
+        "meaning": [
+            [
+                "a",
+                "可比较的；类似的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "compatible"
+        ],
+        "meaning": [
+            [
+                "a",
+                "一致的；兼容制的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "compensate"
+        ],
+        "meaning": [
+            [
+                "vt/vi",
+                "补偿，赔偿"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "compensation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "补偿，赔偿，赔偿费"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "competitive"
+        ],
+        "meaning": [
+            [
+                "a",
+                "竞争的，比赛的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "competitor"
+        ],
+        "meaning": [
+            [
+                "n",
+                "竞争者，敌手"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "complaint"
+        ],
+        "meaning": [
+            [
+                "n",
+                "疾病，病痛；主诉"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "complement"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "补充"
+            ],
+            [
+                "n",
+                "补足(物)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "completion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "完成，结束，完满"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "complexity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "复杂(性)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "complication"
+        ],
+        "meaning": [
+            [
+                "n",
+                "复杂，混乱；并发症"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "compliment"
+        ],
+        "meaning": [
+            [
+                "n",
+                "问候"
+            ],
+            [
+                "vt",
+                "赞美，祝贺"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "comply"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "应允，遵照，照做"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "composer"
+        ],
+        "meaning": [
+            [
+                "n",
+                "作曲家；调停人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "composite"
+        ],
+        "meaning": [
+            [
+                "a",
+                "合成的"
+            ],
+            [
+                "n",
+                "合成物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "composition"
+        ],
+        "meaning": [
+            [
+                "n",
+                "组成，构成，结构"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "comprehend"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "了解，理解，领会"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "compression"
+        ],
+        "meaning": [
+            [
+                "n",
+                "压缩，压紧，浓缩"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "compulsory"
+        ],
+        "meaning": [
+            [
+                "a",
+                "强迫的，义务的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "conceit"
+        ],
+        "meaning": [
+            [
+                "n",
+                "自负，自高自大"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "conceive"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "设想，以为；怀孕"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "concentrate"
+        ],
+        "meaning": [
+            [
+                "vt/vi",
+                "浓缩，提浓"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "conception"
+        ],
+        "meaning": [
+            [
+                "n",
+                "概念，观念，想法"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "concern"
+        ],
+        "meaning": [
+            [
+                "n",
+                "所关切的事；商行"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "concert"
+        ],
+        "meaning": [
+            [
+                "n",
+                "一齐，一致，协作"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "concession"
+        ],
+        "meaning": [
+            [
+                "n",
+                "让步，迁就"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "confidence"
+        ],
+        "meaning": [
+            [
+                "n",
+                "私房话，秘密，机密"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "confidential"
+        ],
+        "meaning": [
+            [
+                "a",
+                "秘密的；亲信的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "confirmation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "证实，确定；确认"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "conform"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使遵守"
+            ],
+            [
+                "vi",
+                "一致"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "confront"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使面对；使对证"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "conqueror"
+        ],
+        "meaning": [
+            [
+                "n",
+                "征服者，胜利者"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consciousness"
+        ],
+        "meaning": [
+            [
+                "n",
+                "意识，知觉，觉悟"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consequence"
+        ],
+        "meaning": [
+            [
+                "n",
+                "重要(性)，重大意义"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consequent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "作为结果的；必然的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "conservative"
+        ],
+        "meaning": [
+            [
+                "a",
+                "有保存力的，防腐的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consistent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "前后一致的，连贯的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "console"
+        ],
+        "meaning": [
+            [
+                "n",
+                "悬臂，肘托；控制台"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consolidate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "巩固"
+            ],
+            [
+                "vi",
+                "合并"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "constituent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "形成的"
+            ],
+            [
+                "n",
+                "选民"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "constitute"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "构成，组成"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "constitution"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(人的)体格，素质"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "constraint"
+        ],
+        "meaning": [
+            [
+                "n",
+                "强迫，结束；强制力"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "construction"
+        ],
+        "meaning": [
+            [
+                "n",
+                "结构；作图(法)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consul"
+        ],
+        "meaning": [
+            [
+                "n",
+                "领事"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consumer"
+        ],
+        "meaning": [
+            [
+                "n",
+                "消费者，用户"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "consumption"
+        ],
+        "meaning": [
+            [
+                "n",
+                "消费(量)，灭绝"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "contend"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "竞争"
+            ],
+            [
+                "vt",
+                "坚决主张"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "context"
+        ],
+        "meaning": [
+            [
+                "n",
+                "上下文；来龙去脉"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "continental"
+        ],
+        "meaning": [
+            [
+                "a",
+                "大陆的，大陆性的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "contradict"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "反驳，否认"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "contrary"
+        ],
+        "meaning": [
+            [
+                "n",
+                "反对命题"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "contrast"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使对比"
+            ],
+            [
+                "vi",
+                "形成对比"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "controversy"
+        ],
+        "meaning": [
+            [
+                "n",
+                "争论，辩论，争吵"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "convention"
+        ],
+        "meaning": [
+            [
+                "n",
+                "公约，(换俘等)协定"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "convert"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "转变，改变，变换"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "convey"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "传达；传播；转让"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "conviction"
+        ],
+        "meaning": [
+            [
+                "n",
+                "确信，信服，深信"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cooperative"
+        ],
+        "meaning": [
+            [
+                "a",
+                "合作的"
+            ],
+            [
+                "n",
+                "合作社"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coordinate"
+        ],
+        "meaning": [
+            [
+                "a",
+                "同等的"
+            ],
+            [
+                "n",
+                "同等的人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "correctly"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "正确地，恰当地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "correlate"
+        ],
+        "meaning": [
+            [
+                "n",
+                "互相关联的事物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "correlation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "相互关系；对射"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "correspondence"
+        ],
+        "meaning": [
+            [
+                "n",
+                "通信；符合；对应"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "corrosion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "腐蚀，侵蚀；锈"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "corrupt"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "贿赂"
+            ],
+            [
+                "a",
+                "腐败的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cosmic"
+        ],
+        "meaning": [
+            [
+                "a",
+                "宇宙的；广大无边的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cosmos"
+        ],
+        "meaning": [
+            [
+                "n",
+                "宇宙；秩序，和谐"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "couch"
+        ],
+        "meaning": [
+            [
+                "n",
+                "睡椅，长沙发椅"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "counsel"
+        ],
+        "meaning": [
+            [
+                "n",
+                "商议；忠告；律师"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "count"
+        ],
+        "meaning": [
+            [
+                "n",
+                "起拆理由，罪状"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "counter"
+        ],
+        "meaning": [
+            [
+                "a/ad",
+                "相反的(地)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "courageous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "勇敢的，无畏的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "courteous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "有礼貌的，谦恭的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "courtesy"
+        ],
+        "meaning": [
+            [
+                "n",
+                "礼貌，谦恭，请安"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "coward"
+        ],
+        "meaning": [
+            [
+                "a",
+                "懦怯的，胆小的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "crab"
+        ],
+        "meaning": [
+            [
+                "n",
+                "蟹，蟹肉"
+            ],
+            [
+                "vi",
+                "捕蟹"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "crack"
+        ],
+        "meaning": [
+            [
+                "vi/vt",
+                "发出爆裂声"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cradle"
+        ],
+        "meaning": [
+            [
+                "n",
+                "摇篮，发源地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "craft"
+        ],
+        "meaning": [
+            [
+                "n",
+                "技巧"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "crank"
+        ],
+        "meaning": [
+            [
+                "n",
+                "曲柄"
+            ],
+            [
+                "vi",
+                "转动曲柄"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "crash"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "撞坏，摔坏，砸碎"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "credit"
+        ],
+        "meaning": [
+            [
+                "vt/n",
+                "相信，信任"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "crisis"
+        ],
+        "meaning": [
+            [
+                "n",
+                "危机；转折点"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "crisp"
+        ],
+        "meaning": [
+            [
+                "a",
+                "脆的；卷曲的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "criterion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "标准，准则，尺度"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "crooked"
+        ],
+        "meaning": [
+            [
+                "a",
+                "弯的，歪的；畸形的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cross"
+        ],
+        "meaning": [
+            [
+                "a",
+                "易怒的；杂交的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cruelty"
+        ],
+        "meaning": [
+            [
+                "n",
+                "残酷；残酷行为"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cruise"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "巡航"
+            ],
+            [
+                "vt",
+                "巡航于…"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cubic"
+        ],
+        "meaning": [
+            [
+                "a",
+                "立方体的；立方的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cuckoo"
+        ],
+        "meaning": [
+            [
+                "n",
+                "杜鹃，布谷鸟"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "curly"
+        ],
+        "meaning": [
+            [
+                "a",
+                "卷曲的；有卷毛的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "currency"
+        ],
+        "meaning": [
+            [
+                "n",
+                "通货；通用；市价"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "currently"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "普遍地；当前"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "custom"
+        ],
+        "meaning": [
+            [
+                "n",
+                "海关，关税"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "customary"
+        ],
+        "meaning": [
+            [
+                "a",
+                "通常的；照惯例的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cutter"
+        ],
+        "meaning": [
+            [
+                "n",
+                "用于切割的器械"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "cylinder"
+        ],
+        "meaning": [
+            [
+                "n",
+                "圆筒；柱(面)；汽缸"
+            ]
+        ]
+    }
+]

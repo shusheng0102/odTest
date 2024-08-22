@@ -1,0 +1,9 @@
+[
+  {
+    "name": "测试",
+    "language": "English",
+    "category": "子集",
+    "folder": "test",
+    "words": "words.json"
+  }
+]

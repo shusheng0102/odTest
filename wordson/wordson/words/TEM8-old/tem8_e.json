@@ -1,0 +1,678 @@
+[
+    {
+        "word": [
+            "eagerness"
+        ],
+        "meaning": [
+            [
+                "n",
+                "热心"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "earthen"
+        ],
+        "meaning": [
+            [
+                "a",
+                "土制的,陶制的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "earthworm"
+        ],
+        "meaning": [
+            [
+                "n",
+                "蚯蚓"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ebony"
+        ],
+        "meaning": [
+            [
+                "n",
+                "黑檀树,乌木"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "eccentric"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "古怪的，反常的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "economical"
+        ],
+        "meaning": [
+            [
+                "a",
+                "节约的；经济学的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "economist"
+        ],
+        "meaning": [
+            [
+                "n",
+                "经济学者,经济家"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "edible"
+        ],
+        "meaning": [
+            [
+                "a",
+                "可以吃的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "edify"
+        ],
+        "meaning": [
+            [
+                "v",
+                "陶冶，启发"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "editor"
+        ],
+        "meaning": [
+            [
+                "n",
+                "编辑，编者，校订者"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "editorial"
+        ],
+        "meaning": [
+            [
+                "n",
+                "社论，期刊的社论"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "educational"
+        ],
+        "meaning": [
+            [
+                "a",
+                "教育的,教育性的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "effeminate"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "柔弱的，缺乏勇气的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "efficacy"
+        ],
+        "meaning": [
+            [
+                "n",
+                "功效,效力"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "efficient"
+        ],
+        "meaning": [
+            [
+                "a",
+                "效率高的，有能力的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "elapse"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "(时间)过去，消逝"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "elector"
+        ],
+        "meaning": [
+            [
+                "n",
+                "有选举权的人,选举人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "electronic"
+        ],
+        "meaning": [
+            [
+                "a",
+                "电子的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ember"
+        ],
+        "meaning": [
+            [
+                "n",
+                "灰烬,余烬"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "eminence"
+        ],
+        "meaning": [
+            [
+                "n",
+                "卓越、杰出"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "emphasize"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "强调，着重"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "empower"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "授予权力,允许,使能够"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "emulation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "竞争，仿效"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "encircle"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "环绕"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "encouragement"
+        ],
+        "meaning": [
+            [
+                "n",
+                "鼓励,激励,奖励"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "encyclopaedia"
+        ],
+        "meaning": [
+            [
+                "n",
+                "百科全书"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "encyclopedia"
+        ],
+        "meaning": [
+            [
+                "n",
+                "百科全书"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "endear"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使受喜爱"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "endurance"
+        ],
+        "meaning": [
+            [
+                "n",
+                "耐久力，持久力"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "energetic"
+        ],
+        "meaning": [
+            [
+                "a",
+                "积极的；精力旺盛的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "entreaty"
+        ],
+        "meaning": [
+            [
+                "n",
+                "恳求，哀求"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "entrust"
+        ],
+        "meaning": [
+            [
+                "v",
+                "委托，付托"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "enumerate"
+        ],
+        "meaning": [
+            [
+                "v",
+                "列举,枚举"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "epidemic"
+        ],
+        "meaning": [
+            [
+                "adj",
+                "传染性的，流行性的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "epistle"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(长而重要的)书信"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "equation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "方程(式)；等式"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "era"
+        ],
+        "meaning": [
+            [
+                "n",
+                "时代，年代；纪元"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "erroneous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "错误的,不正确的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "espy"
+        ],
+        "meaning": [
+            [
+                "v",
+                "(从远处等)突然看到"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "estimation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "判断,值计,尊重"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "evaporate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使脱水"
+            ],
+            [
+                "vi",
+                "发散蒸气"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "evaporation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "蒸发"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "eventual"
+        ],
+        "meaning": [
+            [
+                "a",
+                "最后的,终于的,可能的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "excommunicate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "逐出教会"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "executor"
+        ],
+        "meaning": [
+            [
+                "n",
+                "遗嘱执行人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exert"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "发挥(威力)，施加"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exertion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "努力，用力"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exhale"
+        ],
+        "meaning": [
+            [
+                "v",
+                "呼出(气)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exhortation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "劝告，规劝"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exit"
+        ],
+        "meaning": [
+            [
+                "n",
+                "出口；退场"
+            ],
+            [
+                "vi",
+                "退出"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "expectant"
+        ],
+        "meaning": [
+            [
+                "n",
+                "预期者,期待者"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "expend"
+        ],
+        "meaning": [
+            [
+                "v",
+                "花费，用光"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "expenditure"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(时间等)支出，消费"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "explode"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使爆炸"
+            ],
+            [
+                "vi",
+                "爆炸"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "explosion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "爆炸，爆发，炸裂"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "explosive"
+        ],
+        "meaning": [
+            [
+                "n",
+                "炸药"
+            ],
+            [
+                "a",
+                "爆炸的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exposition"
+        ],
+        "meaning": [
+            [
+                "n",
+                "说明，解释；陈列"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exposure"
+        ],
+        "meaning": [
+            [
+                "n",
+                "暴露；揭露；曝光"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "external"
+        ],
+        "meaning": [
+            [
+                "a",
+                "外部的，外面的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "exultation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "狂喜,大悦,欢欣"
+            ]
+        ]
+    }
+]

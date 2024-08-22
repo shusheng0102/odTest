@@ -1,0 +1,1366 @@
+[
+    {
+        "word": [
+            "ice"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使成冰"
+            ],
+            [
+                "vi",
+                "结冰"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "icy"
+        ],
+        "meaning": [
+            [
+                "a",
+                "冰冷的；冷冰冰的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "idealism"
+        ],
+        "meaning": [
+            [
+                "n",
+                "唯心主义；理想主义"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ideally"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "理想地；理论上"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "identical"
+        ],
+        "meaning": [
+            [
+                "a",
+                "同一的；恒等的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "identification"
+        ],
+        "meaning": [
+            [
+                "n",
+                "认出，鉴定；身份证"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "idiot"
+        ],
+        "meaning": [
+            [
+                "n",
+                "白痴；傻子"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "idleness"
+        ],
+        "meaning": [
+            [
+                "n",
+                "懒惰；赋闲无事"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ignite"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "引燃"
+            ],
+            [
+                "vi",
+                "着火"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ignorance"
+        ],
+        "meaning": [
+            [
+                "n",
+                "无知，无学，愚昧"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "illiterate"
+        ],
+        "meaning": [
+            [
+                "a",
+                "文盲的"
+            ],
+            [
+                "n",
+                "文盲"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "illuminate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "照明，照亮；阐明"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "illusion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "幻想；错觉；假象"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "imitation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "仿制品，伪制物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "immerse"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "沉浸；给…施洗礼"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "immigrate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "(使)移居入境"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "immortal"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不朽的；永生的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "impart"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "给予，传递；告诉"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "impartial"
+        ],
+        "meaning": [
+            [
+                "a",
+                "公正的，无偏见的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "implement"
+        ],
+        "meaning": [
+            [
+                "n",
+                "工具，服装"
+            ],
+            [
+                "vt",
+                "贯彻"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "implore"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "乞求，恳求，哀求"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "impose"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "利用；欺骗"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "impress"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "盖印，在…打记号"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "improper"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不适当的；不合理的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "impulse"
+        ],
+        "meaning": [
+            [
+                "n",
+                "推动，冲力；冲动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "impurity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "不纯；杂质；不道德"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inaccessible"
+        ],
+        "meaning": [
+            [
+                "a",
+                "达不到的，难接近的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inaccurate"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不精密的，不准确的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inadequate"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不充足的，不适当的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inasmuch"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "因为，由于"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inaugurate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "开始；使就职"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incapable"
+        ],
+        "meaning": [
+            [
+                "a",
+                "无能力的；无资格的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incense"
+        ],
+        "meaning": [
+            [
+                "n",
+                "香，熏香；香气"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incidence"
+        ],
+        "meaning": [
+            [
+                "n",
+                "发生，影响；入射"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incidentally"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "附带地；顺便提及"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inclination"
+        ],
+        "meaning": [
+            [
+                "n",
+                "倾斜，点头；斜坡"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incline"
+        ],
+        "meaning": [
+            [
+                "n",
+                "坡度"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inclusive"
+        ],
+        "meaning": [
+            [
+                "a",
+                "包围住的；包括的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incompatible"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不相容的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incomplete"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不完全的，未完成的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incorporate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "结合，合并，收编"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "incredible"
+        ],
+        "meaning": [
+            [
+                "a",
+                "难以置信的，惊人的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "indefinite"
+        ],
+        "meaning": [
+            [
+                "a",
+                "无限期的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "indicative"
+        ],
+        "meaning": [
+            [
+                "a",
+                "指示的；陈述的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "indignation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "愤怒，愤慨，义愤"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "indispensable"
+        ],
+        "meaning": [
+            [
+                "a",
+                "必不可少的，必需的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "individual"
+        ],
+        "meaning": [
+            [
+                "a",
+                "特殊的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "indoor"
+        ],
+        "meaning": [
+            [
+                "a",
+                "室内的；室内进行的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "induce"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "劝诱；引起；感应"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "induction"
+        ],
+        "meaning": [
+            [
+                "n",
+                "就职；归纳推理"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "indulge"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "放纵(感情)"
+            ],
+            [
+                "vi",
+                "纵情"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "industrious"
+        ],
+        "meaning": [
+            [
+                "a",
+                "勤劳的，勤奋的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inertia"
+        ],
+        "meaning": [
+            [
+                "n",
+                "惯性，惯量；无力"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inevitably"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "不可避免地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "infect"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使受影响"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "infectious"
+        ],
+        "meaning": [
+            [
+                "a",
+                "传染的；感染性的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "infer"
+        ],
+        "meaning": [
+            [
+                "vt/vi",
+                "猜想，臆测"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inference"
+        ],
+        "meaning": [
+            [
+                "n",
+                "推论；推断的结果"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inferior"
+        ],
+        "meaning": [
+            [
+                "n",
+                "下级；晚辈，次品"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "infinite"
+        ],
+        "meaning": [
+            [
+                "n",
+                "无限；无穷(大)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "infinitely"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "无限地，无边地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "infinity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "大量，大宗；无穷大"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inflation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "通货膨胀，物价飞涨"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "influence"
+        ],
+        "meaning": [
+            [
+                "n",
+                "势力，权势"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ingenious"
+        ],
+        "meaning": [
+            [
+                "a",
+                "机灵的；精巧制成的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ingenuity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "机灵；设计新颖"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ingredient"
+        ],
+        "meaning": [
+            [
+                "n",
+                "配料，成分"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inherent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "固有的，生来的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "initial"
+        ],
+        "meaning": [
+            [
+                "a",
+                "词首的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "initially"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "最初，开始"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "initiate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "开始，创始；启蒙"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "initiative"
+        ],
+        "meaning": [
+            [
+                "a",
+                "创始的"
+            ],
+            [
+                "n",
+                "第一步"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inject"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "注射；注满；喷射"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inland"
+        ],
+        "meaning": [
+            [
+                "a",
+                "国内的；内地的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inlet"
+        ],
+        "meaning": [
+            [
+                "n",
+                "进口，水湾"
+            ],
+            [
+                "vt",
+                "引进"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "innovation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "创新，改革，新设施"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "innumerable"
+        ],
+        "meaning": [
+            [
+                "a",
+                "无数的，数不清的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inorganic"
+        ],
+        "meaning": [
+            [
+                "a",
+                "无生物的；无机的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "input"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "输入"
+            ],
+            [
+                "n",
+                "输入"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "insert"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "(肌肉)附着"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "insight"
+        ],
+        "meaning": [
+            [
+                "n",
+                "洞察力，洞悉，见识"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "insignificant"
+        ],
+        "meaning": [
+            [
+                "a",
+                "无意义的；低微的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "insistent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "坚持的；逼人注意的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inspector"
+        ],
+        "meaning": [
+            [
+                "n",
+                "检查员；巡官"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inspiration"
+        ],
+        "meaning": [
+            [
+                "n",
+                "灵感；妙想；鼓舞"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "instability"
+        ],
+        "meaning": [
+            [
+                "n",
+                "不稳定性；不坚决"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "installment"
+        ],
+        "meaning": [
+            [
+                "n",
+                "分期付款"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "instantaneous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "瞬间的，即刻的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "instructor"
+        ],
+        "meaning": [
+            [
+                "n",
+                "指导者，教员"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "instrumental"
+        ],
+        "meaning": [
+            [
+                "a",
+                "仪器的；有帮助的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "insulate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使绝缘，使绝热"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "insulator"
+        ],
+        "meaning": [
+            [
+                "n",
+                "隔离者；绝缘体"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "intake"
+        ],
+        "meaning": [
+            [
+                "n",
+                "吸入；输入能量"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "integral"
+        ],
+        "meaning": [
+            [
+                "a",
+                "组成的；整的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "integrate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使结合，使并入"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "integrity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "诚实，正直"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "intellect"
+        ],
+        "meaning": [
+            [
+                "n",
+                "理智，智力，才智"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "intent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "目不转睛的，热切的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "interact"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "相互作用"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "interconnect"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使互相联系"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "intercourse"
+        ],
+        "meaning": [
+            [
+                "n",
+                "交际，往来，交流"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "interface"
+        ],
+        "meaning": [
+            [
+                "n",
+                "分界面"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "interior"
+        ],
+        "meaning": [
+            [
+                "n",
+                "内部"
+            ],
+            [
+                "a",
+                "内部的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "intermediate"
+        ],
+        "meaning": [
+            [
+                "n",
+                "中间体；调解人"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "interpret"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "解释"
+            ],
+            [
+                "vi",
+                "口译"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "intervene"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "干涉，干预；播进"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "interview"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "接见，会见，会谈"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "intonation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "语调，声调；发声"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "introduce"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "提出(议案等)"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "invalid"
+        ],
+        "meaning": [
+            [
+                "n",
+                "病人"
+            ],
+            [
+                "a",
+                "有病的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "invariably"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "不变地，永恒地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "inversely"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "相反地"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "invoice"
+        ],
+        "meaning": [
+            [
+                "n",
+                "发票，发货清单"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ion"
+        ],
+        "meaning": [
+            [
+                "n",
+                "离子"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "irregularity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "不规则；不整齐"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "irrespective"
+        ],
+        "meaning": [
+            [
+                "a",
+                "不考虑的，不顾的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "irrigation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "灌溉；冲洗法"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "irritate"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "激怒；引起不愉快"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "Islam"
+        ],
+        "meaning": [
+            [
+                "n",
+                "伊斯兰教，回教"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "ivory"
+        ],
+        "meaning": [
+            [
+                "n",
+                "象牙；牙质；乳白色"
+            ]
+        ]
+    }
+]

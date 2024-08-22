@@ -1,0 +1,55 @@
+{
+	"tick": 200,
+	"screen": [800, 600],
+	"title": "WordsOn",
+	"font": "font/font.ttf",
+	"soundmark_font": "font/soundmark.ttf",
+	"fontsize": 20,
+
+	"titlesize": 100,
+	"title_offset": 100,
+	"start_btn_gap": 40,
+	"btn_gap": 20,
+	"btn_h_offset": 40,
+	"btn_v_offset": 5,
+	"btn_fontsize": 40,
+
+	"circle_interval": 15,
+	"circle_resize": 0.5,
+
+	"rec_interval": 1,
+	"rec_width": 3,
+	"rec_draw_speed": 4,
+	"rec_erase_speed": 6,
+
+	"chkbox_interval": 20,
+
+	"scroll_page_speed": 0.5,
+
+	"rollspeed": 0.1,
+	"gap": 300,
+	"rolepos": 30,
+	"ground": 500,
+
+	"role_interval": 100,
+	"role_upward_speed": -0.4,
+	"block_interval": 200,
+	"gravity": 0.001,
+
+
+	"topic_len": 50,
+	"topic_hspace": 10,
+	"topic_x": 200,
+	"topic_y": 20,
+	"option_len": 47,
+	"noti_stay_time": 1000,
+
+
+	"key_repeat_delay": 400,
+	"key_repeat_interval": 70,
+
+	"data_cfg": "words/index.json",
+	"save_cfg": "save/save.json",
+
+	"award_time_interval": 3500
+}

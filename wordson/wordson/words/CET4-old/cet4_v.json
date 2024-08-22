@@ -1,0 +1,785 @@
+[
+    {
+        "word": [
+            "vast"
+        ],
+        "meaning": [
+            [
+                "a",
+                "巨大的；大量的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vision"
+        ],
+        "meaning": [
+            [
+                "n",
+                "视；想象力；梦幻"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vain"
+        ],
+        "meaning": [
+            [
+                "a",
+                "徒劳的；自负的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vapour"
+        ],
+        "meaning": [
+            [
+                "n",
+                "汽，蒸气"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "violet"
+        ],
+        "meaning": [
+            [
+                "n",
+                "紫罗兰"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "venture"
+        ],
+        "meaning": [
+            [
+                "n/vi",
+                "冒险"
+            ],
+            [
+                "vt",
+                "敢于"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vanity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "虚荣心，虚夸"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "volleyball"
+        ],
+        "meaning": [
+            [
+                "n",
+                "排球，排球运动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vine"
+        ],
+        "meaning": [
+            [
+                "n",
+                "葡萄树"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "van"
+        ],
+        "meaning": [
+            [
+                "n",
+                "大篷车，运货车"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "variable"
+        ],
+        "meaning": [
+            [
+                "n",
+                "变量"
+            ],
+            [
+                "a",
+                "易变的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vacuum"
+        ],
+        "meaning": [
+            [
+                "n",
+                "真空；真空吸尘器"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "variation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "变化，变动；变异"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "various"
+        ],
+        "meaning": [
+            [
+                "a",
+                "各种各样的，不同的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "victorious"
+        ],
+        "meaning": [
+            [
+                "a",
+                "胜利的，得胜的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "voltage"
+        ],
+        "meaning": [
+            [
+                "n",
+                "电压"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vinegar"
+        ],
+        "meaning": [
+            [
+                "n",
+                "醋"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vacant"
+        ],
+        "meaning": [
+            [
+                "a",
+                "空的；未被占用的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vote"
+        ],
+        "meaning": [
+            [
+                "n",
+                "选举，投票，表决"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "visible"
+        ],
+        "meaning": [
+            [
+                "a",
+                "可见的，看得见的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "via"
+        ],
+        "meaning": [
+            [
+                "prep",
+                "经过；通过"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "visitor"
+        ],
+        "meaning": [
+            [
+                "n",
+                "访问者；游客"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "velocity"
+        ],
+        "meaning": [
+            [
+                "n",
+                "速度，速率"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "verify"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "证实，查证；证明"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vigorous"
+        ],
+        "meaning": [
+            [
+                "a",
+                "朝气蓬勃的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "veteran"
+        ],
+        "meaning": [
+            [
+                "n",
+                "老兵，老手"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vessel"
+        ],
+        "meaning": [
+            [
+                "n",
+                "容器；船，飞船；管"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vase"
+        ],
+        "meaning": [
+            [
+                "n",
+                "瓶，花瓶"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "valley"
+        ],
+        "meaning": [
+            [
+                "n",
+                "(山)谷，溪谷；流域"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vacation"
+        ],
+        "meaning": [
+            [
+                "n",
+                "假期，休假"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "victory"
+        ],
+        "meaning": [
+            [
+                "n",
+                "胜利，战胜"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vex"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "使烦恼，使恼火"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "voluntary"
+        ],
+        "meaning": [
+            [
+                "a",
+                "自愿的，志愿的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "very"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "很；完全"
+            ],
+            [
+                "a",
+                "真的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vital"
+        ],
+        "meaning": [
+            [
+                "a",
+                "生命的；有生命力的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "video"
+        ],
+        "meaning": [
+            [
+                "n",
+                "电视"
+            ],
+            [
+                "a",
+                "电视的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vest"
+        ],
+        "meaning": [
+            [
+                "n",
+                "汗衫；背心；内衣"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "velvet"
+        ],
+        "meaning": [
+            [
+                "n",
+                "丝绒，天鹅绒"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "valuable"
+        ],
+        "meaning": [
+            [
+                "a",
+                "值钱的；有价值的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "voyage"
+        ],
+        "meaning": [
+            [
+                "n/vi",
+                "航海，航空"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "virtually"
+        ],
+        "meaning": [
+            [
+                "ad",
+                "实际上，事实上"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "violence"
+        ],
+        "meaning": [
+            [
+                "n",
+                "猛烈，激烈；暴力"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "voice"
+        ],
+        "meaning": [
+            [
+                "n",
+                "说话声；意见；语态"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "violent"
+        ],
+        "meaning": [
+            [
+                "a",
+                "猛烈的；狂暴的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "view"
+        ],
+        "meaning": [
+            [
+                "n",
+                "看；视力；风景"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vibrate"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "颤动"
+            ],
+            [
+                "vt",
+                "使颤动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vivid"
+        ],
+        "meaning": [
+            [
+                "a",
+                "鲜艳的；生动的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "volt"
+        ],
+        "meaning": [
+            [
+                "n",
+                "伏特，伏"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "variety"
+        ],
+        "meaning": [
+            [
+                "n",
+                "多样化；种类；变种"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vegetable"
+        ],
+        "meaning": [
+            [
+                "n",
+                "植物；蔬菜"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vague"
+        ],
+        "meaning": [
+            [
+                "a",
+                "模糊的，含糊的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vehicle"
+        ],
+        "meaning": [
+            [
+                "n",
+                "车辆，机动车"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "veil"
+        ],
+        "meaning": [
+            [
+                "n",
+                "面纱，面罩；遮蔽物"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vitamin"
+        ],
+        "meaning": [
+            [
+                "n",
+                "维生素，维他命"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vocabulary"
+        ],
+        "meaning": [
+            [
+                "n",
+                "词汇表；词汇，语汇"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vibration"
+        ],
+        "meaning": [
+            [
+                "n",
+                "颤动，振动；摆动"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "valid"
+        ],
+        "meaning": [
+            [
+                "a",
+                "有效的；正当的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "value"
+        ],
+        "meaning": [
+            [
+                "n",
+                "价值；价格"
+            ],
+            [
+                "vt",
+                "评价"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "viewpoint"
+        ],
+        "meaning": [
+            [
+                "n",
+                "观点，看法，见解"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vice"
+        ],
+        "meaning": [
+            [
+                "n",
+                "罪恶；恶习；缺点;(老)虎钳"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "virtue"
+        ],
+        "meaning": [
+            [
+                "n",
+                "善；美德；优点"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "volume"
+        ],
+        "meaning": [
+            [
+                "n",
+                "卷，册；容积；音量"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vertical"
+        ],
+        "meaning": [
+            [
+                "a",
+                "垂直的，竖式的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "visual"
+        ],
+        "meaning": [
+            [
+                "a",
+                "看的；看得见的"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "victim"
+        ],
+        "meaning": [
+            [
+                "n",
+                "牺牲者，受害者"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "volcano"
+        ],
+        "meaning": [
+            [
+                "n",
+                "火山"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "version"
+        ],
+        "meaning": [
+            [
+                "n",
+                "译文；说法；改写本"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vary"
+        ],
+        "meaning": [
+            [
+                "vt",
+                "改变；使多样化"
+            ]
+        ]
+    },
+    {
+        "word": [
+            "vanish"
+        ],
+        "meaning": [
+            [
+                "vi",
+                "突然不见，消失"
+            ]
+        ]
+    }
+]
